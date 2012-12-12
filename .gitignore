@@ -1,0 +1,4 @@
+.*
+!.gitignore
+AAAA-Mail-SpamAssassin-*
+Debian_CPANTS.txt
